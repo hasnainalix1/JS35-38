@@ -108,16 +108,16 @@
 
 
 // area of rectangle.
-function calculateRectangleArea(width, height){
-    return width * height;
- }
+// function calculateRectangleArea(width, height){
+    // return width * height;
+ // }
 
  // i. Passing arguments as values
- const area1 = calculateRectangleArea(5, 10);
- console.log("The area of the rectangle (using values):", area1);
+ // const area1 = calculateRectangleArea(5, 10);
+ // console.log("The area of the rectangle (using values):", area1);
 
  // ii. Passing arguments as variables
-const width = 7;
-const height = 12;
-const area2 = calculateRectangleArea(width, height);
-console.log("The area of the rectangle (using variables)", area2);
+// const width = 7;
+// const height = 12;
+// const area2 = calculateRectangleArea(width, height);
+// console.log("The area of the rectangle (using variables)", area2);
